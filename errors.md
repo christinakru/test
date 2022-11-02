@@ -1,2 +1,2 @@
-#Bug list
+Bug list
 
